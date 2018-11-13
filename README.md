@@ -1,2 +1,2 @@
 # extralife
-python text game, based on Undertale
+Project A3P reboot
